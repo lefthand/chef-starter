@@ -13,7 +13,7 @@ depends          "sudo"
 depends          "sysstat"
 depends          "motd-tail"
 depends          "chef-client"
-depends          "my_hostname"
+#depends          "my_hostname"
 depends          "fail2ban"
 depends          "postfix", ">= 2.1.2"
 
