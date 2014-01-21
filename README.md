@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # starter cookbook
 
 Includes cookbooks:
